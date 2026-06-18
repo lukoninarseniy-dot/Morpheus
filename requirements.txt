@@ -1,3 +1,4 @@
 aiogram>=3.29,<4
 python-dotenv>=1.0
 aiosqlite>=0.20
+tzdata>=2024.1
